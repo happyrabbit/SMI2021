@@ -1,0 +1,38 @@
+---
+title: "Introduction"
+author: '[Hui Lin](https://scientistcafe.com) @Google</br>'
+output:
+  slidy_presentation:
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = F, error = F, warning =  F)
+```
+
+# [Course Website](https://smi2021.scientistcafe.com/) and [Github](https://github.com/happyrabbit/smi2021) 
+
+
+<center>
+<font size = "10">
+https://smi2021.scientistcafe.com/
+</font>
+</center>
+
+# Schedule
+
+| Topic | Duration |
+| :--- | :---: | 
+| Introduction | 15 mins | 
+| Feedforward Neural Networks | 60 mins | 
+| Break | 10 mins | 
+| Hands on | 60 mins | 
+| Break | 10 mins | 
+| Convolutional Neural Networks | 40 mins | 
+| Hands on | 15 mins |
+| Recurrent Neural Networks | 30 mins |
+
+# Data Science Types v.s Needs
+
+<img src="images/ds_types.PNG" alt="HTML5 Icon" style="width:1000px;height:500px;">
