@@ -1,9 +1,9 @@
 ---
 title: "Recurrent Neural Networks"
-author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
+author: '[Hui Lin](https://scientistcafe.com) @Google'
 output: 
   slidy_presentation: 
-    footer: "https://course2021.scientistcafe.com/"
+    footer: "https://smi2021.scientistcafe.com/"
     duration: 60
 ---
 
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
     - red: intermediate state vector
 - arrow: matrix multiplications
 
-![](../../../../IntroDataScience/images/rnnstrs.png){width=90%}
+![](../../../IntroDataScience/images/rnnstrs.png){width=90%}
 
 
 # Notation
@@ -175,25 +175,25 @@ $L(\hat{y}, y) = \Sigma_{t=1}^{T_y}L^{<t>} (\hat{y}^{<t>}, y^{<t>})$
 # LSTM
 
 <center>
-![](../../../../IntroDataScience/images/lstm1.PNG){width=60%}
+![](../../../IntroDataScience/images/lstm1.PNG){width=60%}
 </center>
 
 # LSTM
 
 <center>
-![](../../../../IntroDataScience/images/lstm2.PNG){width=60%}
+![](../../../IntroDataScience/images/lstm2.PNG){width=60%}
 </center>
 
 # LSTM
 
 <center>
-![](../../../../IntroDataScience/images/lstm3.PNG){width=60%}
+![](../../../IntroDataScience/images/lstm3.PNG){width=60%}
 </center>
 
 # LSTM
 
 <center>
-![](../../../../IntroDataScience/images/lstm4.PNG){width=60%}
+![](../../../IntroDataScience/images/lstm4.PNG){width=60%}
 </center>
 
 # Word representation

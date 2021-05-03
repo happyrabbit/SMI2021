@@ -1,9 +1,9 @@
 ---
 title: "Convolutional Neural Network"
-author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
+author: '[Hui Lin](https://scientistcafe.com) @Google'
 output: 
   slidy_presentation: 
-    footer: "https://course2021.scientistcafe.com/"
+    footer: "https://smi2021.scientistcafe.com/"
 ---
 
 ```{r setup, include=FALSE}
@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Convolutions
 
 <center>
-![](../../../../IntroDataScience/images/convolution1.png){width=60%}
+![](../../../IntroDataScience/images/convolution1.png){width=60%}
 </center>
 
 <center>
@@ -59,7 +59,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Edge Detection
 
 <center>
-![](../../../../IntroDataScience/images/edgedet5.png){width=70%}
+![](../../../IntroDataScience/images/edgedet5.png){width=70%}
 </center>
 
 - [Vertical Edge Detection](https://scientistcafe.com/ids/convolutional-neural-network.html#convolution-layer)
@@ -121,11 +121,11 @@ If layer $l$ is a convolution layer:
 
 # Pooling Layers
 
-![](../../../../IntroDataScience/images/poolinglayer.png){width=70%}
+![](../../../IntroDataScience/images/poolinglayer.png){width=70%}
 
 # [Pooling Layers](https://scientistcafe.com/ids/convolutional-neural-network.html#pooling-layer)
 
-![](../../../../IntroDataScience/images/eggshellconv.png){width=60%}
+![](../../../IntroDataScience/images/eggshellconv.png){width=60%}
 
 
 # Types of Layer in A Convolutional Network

@@ -1,9 +1,9 @@
 ---
 title: "Neural Networks and Deep Learning"
-author: '[Hui Lin](https://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
+author: '[Hui Lin](https://scientistcafe.com) @Google'
 output: 
   slidy_presentation: 
-    footer: "https://course2021.scientistcafe.com/"
+    footer: "https://smi2021.scientistcafe.com/"
 ---
 
 ```{r setup, include=FALSE}
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 <font size = "10">
-https://course2021.scientistcafe.com/
+https://smi2021.scientistcafe.com/
 </font>
 </center>
 
@@ -139,7 +139,7 @@ $\hat{y}^{(i)} = \sigma(w^Tx^{(i)} + b)$ where $\sigma(z) = \frac{1}{1+e^{-z}}$
 
 # Stochastic Gradient Descent (SGD)
 
-![](../../../../IntroDataScience/images/GradientDescent.png){width=90%}
+![](../../../IntroDataScience/images/GradientDescent.png){width=90%}
 
 # Neural Network:  0 Hidden Layer Neural Network
 
@@ -220,7 +220,7 @@ $\hat{y}^{(i)} = \sigma(w^Tx^{(i)} + b)$ where $\sigma(z) = \frac{1}{1+e^{-z}}$
 # Deep Neural Network
 
 <center>
-![](../../../../IntroDataScience/images/dnn_str.png){width=80%}
+![](../../../IntroDataScience/images/dnn_str.png){width=80%}
 </center>
 
 #  Batch, Mini-batch, Stochastic Gradient Descent

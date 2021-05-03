@@ -1,10 +1,9 @@
 ---
 title: "Train Embedding"
-author: '[Hui Lin](http://scientistcafe.com) @Google</br> </br> Ming Li @Amazon'
-date: "`r Sys.Date()`"
+author: '[Hui Lin](http://scientistcafe.com) @Google'
 output: 
   slidy_presentation: 
-    footer: "https://course2019.netlify.com"
+    footer: "https://smi2021.scientistcafe.com/"
     duration: 20
 ---
 
