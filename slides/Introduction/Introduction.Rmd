@@ -27,12 +27,22 @@ https://smi2021.scientistcafe.com/
 | Introduction | 15 mins | 
 | Feedforward Neural Networks | 60 mins | 
 | Break | 10 mins | 
-| Hands on | 60 mins | 
+| Hands-on | 60 mins | 
 | Break | 10 mins | 
 | Convolutional Neural Networks | 40 mins | 
-| Hands on | 15 mins |
+| Hands-on | 15 mins |
 | Recurrent Neural Networks | 30 mins |
 
-# Data Science Types v.s Needs
+# Some other materials
 
-<img src="images/ds_types.PNG" alt="HTML5 Icon" style="width:1000px;height:500px;">
+- The content of this workshop is in [Introduction to Data Science](http://scientistcafe.com/IDS/) (reviewing).  Here is the [GitHub Repo](https://github.com/happyrabbit/IntroDataScience/blob/master/README.md) for the book with links to code and notebooks.
+
+
+deeplearning.ai provides in-depth education programs for different topics in AI
+
+- [Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/) provides a comprehensive introduction to the foundation of deep learning
+
+Go beyond the foundations of deep learning to specific applications:
+
+- [Natural Language Processing Specialization](https://www.deeplearning.ai/program/natural-language-processing-specialization/) focuses on NLP
+- [AI for medicine](https://www.coursera.org/specializations/ai-for-medicine): course one of this specialization focuses on image processing in medicine.
