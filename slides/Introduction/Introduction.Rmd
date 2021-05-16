@@ -35,14 +35,14 @@ https://smi2021.scientistcafe.com/
 
 # Some other materials
 
-- The content of this workshop is in [Introduction to Data Science](http://scientistcafe.com/IDS/) (reviewing).  Here is the [GitHub Repo](https://github.com/happyrabbit/IntroDataScience/blob/master/README.md) for the book with links to code and notebooks.
+- [Introduction to Data Science](http://scientistcafe.com/IDS/) (under review): the content of this workshop.  Here is the [GitHub Repo](https://github.com/happyrabbit/IntroDataScience/blob/master/README.md) for the book with links to code and notebooks.
 
 
 deeplearning.ai provides in-depth education programs for different topics in AI
 
 - [Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/) provides a comprehensive introduction to the foundation of deep learning
 
-Go beyond the foundations of deep learning to specific applications:
+Go beyond the foundations of deep learning to the nuances in applying AI to specific areas:
 
 - [Natural Language Processing Specialization](https://www.deeplearning.ai/program/natural-language-processing-specialization/) focuses on NLP
 - [AI for medicine](https://www.coursera.org/specializations/ai-for-medicine): course one of this specialization focuses on image processing in medicine.
