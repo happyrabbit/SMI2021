@@ -445,15 +445,3 @@ $$w=w-\alpha \frac{V_{dw}^{corrected}}{\sqrt{S_{dw}^{corrected}} +\epsilon};\ b=
 <center>
 ![](images/rscript.png){width=80%}
 </center>
-
-# Some links
-
-- [Introduction to Data Science](http://scientistcafe.com/IDS/) (still writing): the content of the workshop is in this book
-- [Awesome-Data-Science-Materials](https://github.com/happyrabbit/Awesome-Data-Science-Materials)
-- Online books:
-    - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
-    - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-- Hard copy books:
-    - [Applied Predictive Modeling](http://appliedpredictivemodeling.com/)
-    - [R for Marketing Research and Analytics](http://r-marketing.r-forge.r-project.org/)
-
